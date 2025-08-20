@@ -45,6 +45,7 @@ The Airbnb dataset contains information about various listings including locatio
 
 - Capstone Project
 -   Title: AirBnb Booking analysis Task 2
+-   Organized by - AlmaBetter team
 
 
 🔗 Author - Purabi Banerjee 🔹 LinkedIn Profile - https://www.linkedin.com/in/purabi-banerjee-784929351
