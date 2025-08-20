@@ -41,6 +41,8 @@ The Airbnb dataset contains information about various listings including locatio
 - Geo-visualizations of listings using latitude and longitude
 - Time-based availability patterns
 
+
+
 - Capstone Project
 -   Title: AirBnb Booking analysis Task 2
 
